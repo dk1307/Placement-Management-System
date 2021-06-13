@@ -43,14 +43,15 @@ There are three type of user in system : TPO, STUDENT, COMPANT(HR)
 •	View Accepted request: Allows Company HR to see all tpo accepted job Request.  And also see student list who applied.
 
 <html>
-<a src="https://www.figma.com/file/6AsHxbyJsVLEh0SoFROrWa/Placement?node-id=0%3A1">Prototype Using Figma Tool</a>
+<body>
+<a href="https://www.figma.com/file/6AsHxbyJsVLEh0SoFROrWa/Placement?node-id=0%3A1">Prototype Using Figma Tool</a>
+<hr>
+<a href="https://drive.google.com/drive/folders/146oMXJz-F0vMZ23rxrEzGzgejihbVT3t?usp=sharing">DIGITAL USER MANUAL</a>
+<hr>
+<a href="https://github.com/dk1307/Placement-Management-System/blob/d95b8ccd40ef76751b11a5fb431ca5c2831da9be/SDP%20Report/sdp%20report%20pms.docx">SRS</a>
+<hr>
+</body>
 </html>
-DIGITAL USER MANUAL:
-https://drive.google.com/drive/folders/146oMXJz-F0vMZ23rxrEzGzgejihbVT3t?usp=sharing
-
-SRS:
-https://github.com/dk1307/Placement-Management-System/blob/d95b8ccd40ef76751b11a5fb431ca5c2831da9be/SDP%20Report/sdp%20report%20pms.docx
-
 HOME PAGE:
 ![home](https://user-images.githubusercontent.com/58956599/118228150-5693d880-b4a7-11eb-97f1-3b3d61fae679.png)
 
