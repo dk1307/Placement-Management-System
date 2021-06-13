@@ -44,6 +44,7 @@ There are three type of user in system : TPO, STUDENT, COMPANT(HR)
 
 <html>
 <body>
+<hr>
 <a href="https://www.figma.com/file/6AsHxbyJsVLEh0SoFROrWa/Placement?node-id=0%3A1">Prototype Using Figma Tool</a>
 <hr>
 <a href="https://drive.google.com/drive/folders/146oMXJz-F0vMZ23rxrEzGzgejihbVT3t?usp=sharing">DIGITAL USER MANUAL</a>
