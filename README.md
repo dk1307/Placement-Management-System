@@ -53,7 +53,7 @@ There are three type of user in system : TPO, STUDENT, COMPANT(HR)
 <hr>
 
 HOME PAGE:
-<img src="screnshot/main.jpeg">
+<img src="User manual SS/home.png">
 </body>
 </html>
 
