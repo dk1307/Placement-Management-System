@@ -42,9 +42,9 @@ There are three type of user in system : TPO, STUDENT, COMPANT(HR)
 •	View Request: Allows Company HR to see update and delete job Request.
 •	View Accepted request: Allows Company HR to see all tpo accepted job Request.  And also see student list who applied.
 
-Prototype Using Figma Tool:
-https://www.figma.com/file/6AsHxbyJsVLEh0SoFROrWa/Placement?node-id=0%3A1
-
+<html>
+<a src="https://www.figma.com/file/6AsHxbyJsVLEh0SoFROrWa/Placement?node-id=0%3A1">Prototype Using Figma Tool</a>
+</html>
 DIGITAL USER MANUAL:
 https://drive.google.com/drive/folders/146oMXJz-F0vMZ23rxrEzGzgejihbVT3t?usp=sharing
 
