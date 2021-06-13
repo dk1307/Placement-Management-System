@@ -51,8 +51,7 @@ There are three type of user in system : TPO, STUDENT, COMPANT(HR)
 <hr>
 <a href="https://github.com/dk1307/Placement-Management-System/blob/d95b8ccd40ef76751b11a5fb431ca5c2831da9be/SDP%20Report/sdp%20report%20pms.docx">SRS</a>
 <hr>
-
-HOME PAGE:
+<h1>HOME PAGE</h1><br><br>
 <img src="User manual SS/home.png">
 </body>
 </html>
